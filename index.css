@@ -111,7 +111,7 @@ height: 10000px;
     border-radius: 10px;
 }
 .contaner{
-    border: 4px solid;
+    border: 2px solid;
     border-top-color: hwb(0 0% 100%);
     border-left-color: hwb(0 0% 100%);
     border-right-color: hsl(0, 0%, 0%);
